@@ -702,6 +702,10 @@ ul li {
 		width: 500px;
 	}
 
+	.show {
+		width: 600px;
+	}
+
 	.background {
 		width: 600px;
 		position: relative;
