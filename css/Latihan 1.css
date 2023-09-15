@@ -770,7 +770,7 @@ ul li {
 		margin-top: 100px;
 		margin-bottom: 50px;
 		font-size: 30px;
-		-webkit-text-stroke: .7px orange;
+		-webkit-text-stroke: 1px orange;
 	}
 
 	.datapas img {
@@ -848,6 +848,7 @@ ul li {
 	.sertifikat {
 		font-size: 30px;
 		top: 230px;
+		color: gray;
 	}
 
 	.geser {
