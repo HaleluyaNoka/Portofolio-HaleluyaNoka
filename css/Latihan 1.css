@@ -674,10 +674,6 @@ ul li {
 
 @media only screen and (min-width: 500px) {
 
-	body {
-		position: fixed;
-	}
-
 	.fix {
 		width: 100%;
 		visibility: hidden;
