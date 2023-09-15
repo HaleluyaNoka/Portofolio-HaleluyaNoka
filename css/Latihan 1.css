@@ -672,7 +672,7 @@ ul li {
 
 /* Media */
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 768px) {
 
 	.fix {
 		width: 100%;
