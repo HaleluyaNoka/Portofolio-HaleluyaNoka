@@ -674,10 +674,6 @@ ul li {
 
 @media screen and (max-width: 600px) {
 
-	body {
-		height: 200px;
-	}
-
 	.fix {
 		width: 100%;
 		visibility: hidden;
