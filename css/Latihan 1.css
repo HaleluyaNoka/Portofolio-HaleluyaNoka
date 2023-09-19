@@ -856,6 +856,10 @@ ul li {
 		top: 180px;
 	}
 
+	.navigation-manual {
+		z-index: 2;
+	}
+
 	/* Contact */
 
 	.left h3 {
