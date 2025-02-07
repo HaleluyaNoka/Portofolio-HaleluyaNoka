@@ -676,7 +676,6 @@ ul li {
 
 	body {
 		width:300px;
-		height: 3500px;
 	}
 
 	.fix {
@@ -880,7 +879,7 @@ ul li {
 
 	.contact {
 		width: 600px;
-		top: 3280px;
+		top: 3380px;
 		z-index: 1;
 	}
 
